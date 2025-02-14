@@ -38,7 +38,7 @@ This repository contains the Google Earth Engine (GEE) script used for land cove
 
 ## Citation
 If you use this code, please cite:  
-> [Your Paper Citation]. Script available at: [GitHub URL].  
+> [Your Paper Citation]. Script available at: [https://github.com/Elisha-Njomaba/Ghana_LandCover_GEE].  
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.  
